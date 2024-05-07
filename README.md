@@ -1,9 +1,10 @@
 # AI-Headshot-generator
 Add your prompt and generate a professional headshot of your face.
 
-# AI Headshot Generator
-
-This project is a small-scale AI headshot generator that uses the Replicate Dreambooth API. It consists of separate modules for training and testing data, with dedicated servers for each.
+- Create training
+    - https://replicate.com/blog/dreambooth-api
+- Create ai photos
+    - https://replicate.com/replicate/dreambooth/readme
 
 ## Overview
 
